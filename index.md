@@ -1,37 +1,44 @@
-## Miguel Garcia 
+# Miguel Garcia 
 
-You can use the [editor on GitHub](https://github.com/miguejs/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Software engineer with 5+ years of first-hand experience in Back-end Development based in Monterrey, México (Timezone: CDT)_<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:imiked.mail@gmail.com)/ [LinkedIn](https://www.linkedin.com/in/imiked/) / [GitHub](https://github.com/miguejs/) / [Twitter](https://twitter.com/imikedd/) / [DEV](https://dev.to/miguejs/) / [Medium](https://medium.com/@imiked)
 
-### Markdown
+## 💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Software Engineer / Tech Lead** at [Icalialabs](http://icalialabs.com/) _(Oct 2016 - Present)_ <br>
+Product development and design firm focused on Web and Mobile consumer products.
+  - Developing new and customization of the existing features for a doctor appointments web application( Rails), resulting in a better relationship with the client.
+  - Full Stack development of a Plumber platform, consisting of two mobile apps developed with ionic, connected with an API build in rails and using elixir micro-service for realtime tracking.
+  - Developing of  an Hotel booking application, connected to a legacy system web service via XML.
+  - Full Stack development of a Investments portfolio platform,resulting in a strong partnership association between the company and the client.
+  - Doing a Ruby on Rails / best practices course for newly hired team members.
+  - Contribute to internal tools  that improved development speed and provided code quality metrics.  
+  - Providing technical and leadership assistance, code reviews and pair programming sessions with the developer team  members.
+  - **_Technologies used:_** Ruby on Rails, Stimulus, React, Ionic, Node.js, GraphQL, REST, Docker, SemaphoreCI, Elixir /Phoenix, Heroku, AWS.
 
-```markdown
-Syntax highlighted code block
+**Web Developer** at **Helicon** _(Aug 2015 - Oct 2016)_ <br>
 
-# Header 1
-## Header 2
-### Header 3
+- Full stack development of  Statistic & Analysis web platforms for governmental organizations in Mexico.
+ - **_Technologies used:_** Ruby on Rails, Angular, Ionic, MySQL.
+## Skills Summary
+  - Ruby
+  - Ruby on Rails 
+  - Javascript
+  - HTML/CSS
+  - React
+  - Elixir/Phoenix
+  - Node.js
+  - Docker 
+  - Postgresql
+## 📚 Education
+- Bachelor’s Degree in Computer Science - Instituto Tecnológico de la Laguna
+- Backend Development Course at Hacker School
+## 💬 Languages
+ * **Spanish** (Native)
+ * **English**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miguejs/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 📧 Contact
+- **Phone**: (+52) 8721144035
+- **Email**: [imiked.mail@gmail.com](mailto:imiked.mail@gmail.com)
+- **Linkedin**: [imiked](https://www.linkedin.com/in/imiked/)
