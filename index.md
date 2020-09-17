@@ -8,8 +8,8 @@ _Software engineer with 5+ years of first-hand experience in Back-end Developmen
 
 **Software Engineer / Tech Lead** at [Icalialabs](http://icalialabs.com/) _(Oct 2016 - Present)_ <br>
 Product development and design firm focused on Web and Mobile consumer products.
-  - Maintaining and adding new features for a doctor appointments web application(Rails), resulting in a better relationship with the client.
-  - Full Stack development of a plumber platform, consisting of two mobile apps developed with ionic, connected with an API build in Rails and using Elixir micro-service for realtime tracking.
+  - Maintaining and adding new features for a doctor appointments web application (Rails), resulting in a better relationship with the client.
+  - Full Stack development of a plumber platform, consisting of two mobile apps developed with Ionic, connected with an API built in Rails and using Elixir micro-service for realtime tracking.
   - Developing of  an hotel booking application, connected to a legacy system web service via XML.
   - Full Stack development of a investments portfolio platform,resulting in a strong partnership association between the company and the client.
   - Doing a Ruby on Rails / best practices course for newly hired team members.
