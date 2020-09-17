@@ -1,6 +1,6 @@
 # Miguel Garcia 
 
-_Software engineer with 5+ years of first-hand experience in Back-end Development based in Monterrey, México (Timezone: CDT)_<br>
+_Software engineer with 5 years of first-hand experience in Back-end Development based in Monterrey, México (Timezone: CDT)_<br>
 
 [Email](mailto:imiked.mail@gmail.com)/ [LinkedIn](https://www.linkedin.com/in/imiked/) / [GitHub](https://github.com/miguejs/) / [Twitter](https://twitter.com/imikedd/) / [DEV](https://dev.to/miguejs/) / [Medium](https://medium.com/@imiked)
 
